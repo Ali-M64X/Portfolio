@@ -22,6 +22,7 @@ header {
 .alilogo {
   max-width: 60px;
   max-height: 75px;
+  margin: 20px;
 }
 .navigation ul {
   display: flex;
